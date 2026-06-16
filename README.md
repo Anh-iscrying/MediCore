@@ -58,4 +58,4 @@ Truy cập ứng dụng tại: http://localhost:5173
 - Thành viên C: Frontend Patient Portal & UI/UX.
 - Thành viên D: Frontend Doctor Dashboard & WebSocket.
 
-Dự án được thực hiện trong vòng 4 tuần theo mô hình Agile-Scrum.
+## Dự án được thực hiện trong vòng 4 tuần theo mô hình Agile-Scrum.
