@@ -44,7 +44,7 @@ uvicorn app.main:app --reload
 ```
 Truy cập Swagger UI tại: http://localhost:8000/docs
 
-2. Frontend (React.js)
+2. Frontend (Next.js)
 ```bash
 cd code/frontend
 npm install
