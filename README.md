@@ -1,12 +1,17 @@
-🏥 MediCore - Hệ thống Số hóa Hồ sơ Y tế & Quản lý Điều trị thông minh
+#🏥 MediCore - Hệ thống Số hóa Hồ sơ Y tế & Quản lý Điều trị thông minh
 
 MediCore là giải pháp số hóa quy trình tương tác giữa Bác sĩ và Bệnh nhân, tập trung vào việc quản lý hồ sơ bệnh án điện tử (EMR) trọn đời và tối ưu hóa vận hành phòng khám bằng trí tuệ nhân tạo (AI).
 
-🚀 Điểm sáng dự án (Key Features)
+##🚀 Điểm sáng dự án (Key Features)
+
 🆔 Hệ thống định danh kép: Tách biệt patient_code (trọn đời) và emr_code (theo ca khám) để quản lý lịch sử y tế xuyên suốt.
+
 🤖 Trợ lý AI: Tự động gợi ý chuyên khoa cho bệnh nhân và tóm tắt bệnh sử, sinh lời dặn y khoa cho bác sĩ.
+
 ⚡ Hàng chờ Real-time: Cập nhật trạng thái gọi số và điều phối ca khám tức thời qua WebSocket.
+
 📄 E-Prescription: Tự động xuất bản đơn thuốc và kết quả khám định dạng PDF chuyên nghiệp.
+
 🛡️ Bảo mật chuyên sâu: Xác thực tập trung với JWT và cơ chế chống spam tài khoản qua Số điện thoại.
 
 🛠 Tech Stack
