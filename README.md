@@ -16,7 +16,7 @@ MediCore là giải pháp số hóa quy trình tương tác giữa Bác sĩ và 
 
 ## 🛠 Tech Stack
 - Backend: Python 3.10+, FastAPI (Asynchronous framework).
-- Frontend: React.js, Ant Design (UI Kit), Tailwind CSS.
+- Frontend: Next.js, Ant Design (UI Kit), Tailwind CSS.
 - Database: PostgreSQL (Relational Data), SQLAlchemy (ORM).
 - Real-time: WebSocket (STOMP/Websock-client).
 - AI Integration: OpenAI API / Gemini API (LangChain).
@@ -27,7 +27,7 @@ MediCore-Project/
 ├── docs/               # Tài liệu đặc tả SRS, ERD và Backlog
 ├── code/
 │   ├── backend/        # FastAPI Source Code
-│   └── frontend/       # React.js Source Code
+│   └── frontend/       # Next.js Source Code
 ├── .agent/             # AI Workflow & Rules
 └── tests/              # Unit & Integration Tests
 ```
