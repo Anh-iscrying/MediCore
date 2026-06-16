@@ -52,12 +52,6 @@ npm run dev
 ```
 Truy cập ứng dụng tại: http://localhost:5173
 
-## 📝 Quy ước định danh dữ liệu (Data Convention)
-Đối tượng	Tiền tố	Logic sinh mã	Ví dụ
-Bệnh nhân	PAT	PAT-YYYY-NNNN	PAT-2024-0001
-Ca khám	EMR	EMR-YYYYMMDD-NN	EMR-20241027-01
-Bác sĩ	DOC	DOC-NNNN	DOC-0012
-
 ## 👥 Đội ngũ thực hiện (Team)
 - Thành viên A (Leader): Backend Architecture, Security & Database.
 - Thành viên B: Business Logic, AI Integration & PDF Service.
