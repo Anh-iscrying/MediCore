@@ -1,8 +1,8 @@
-#🏥 MediCore - Hệ thống Số hóa Hồ sơ Y tế & Quản lý Điều trị thông minh
+# 🏥 MediCore - Hệ thống Số hóa Hồ sơ Y tế & Quản lý Điều trị thông minh
 
 MediCore là giải pháp số hóa quy trình tương tác giữa Bác sĩ và Bệnh nhân, tập trung vào việc quản lý hồ sơ bệnh án điện tử (EMR) trọn đời và tối ưu hóa vận hành phòng khám bằng trí tuệ nhân tạo (AI).
 
-##🚀 Điểm sáng dự án (Key Features)
+## 🚀 Điểm sáng dự án (Key Features)
 
 🆔 Hệ thống định danh kép: Tách biệt patient_code (trọn đời) và emr_code (theo ca khám) để quản lý lịch sử y tế xuyên suốt.
 
@@ -14,14 +14,14 @@ MediCore là giải pháp số hóa quy trình tương tác giữa Bác sĩ và 
 
 🛡️ Bảo mật chuyên sâu: Xác thực tập trung với JWT và cơ chế chống spam tài khoản qua Số điện thoại.
 
-🛠 Tech Stack
-Backend: Python 3.10+, FastAPI (Asynchronous framework).
-Frontend: React.js, Ant Design (UI Kit), Tailwind CSS.
-Database: PostgreSQL (Relational Data), SQLAlchemy (ORM).
-Real-time: WebSocket (STOMP/Websock-client).
-AI Integration: OpenAI API / Gemini API (LangChain).
+## 🛠 Tech Stack
+- Backend: Python 3.10+, FastAPI (Asynchronous framework).
+- Frontend: React.js, Ant Design (UI Kit), Tailwind CSS.
+- Database: PostgreSQL (Relational Data), SQLAlchemy (ORM).
+- Real-time: WebSocket (STOMP/Websock-client).
+- AI Integration: OpenAI API / Gemini API (LangChain).
 
-📁 Cấu trúc thư mục (Project Structure)
+## 📁 Cấu trúc thư mục (Project Structure)
 ```bash
 MediCore-Project/
 ├── docs/               # Tài liệu đặc tả SRS, ERD và Backlog
@@ -32,7 +32,8 @@ MediCore-Project/
 └── tests/              # Unit & Integration Tests
 ```
 
-🛠 Hướng dẫn cài đặt (Quick Start)
+## 🛠 Hướng dẫn cài đặt (Quick Start)
+
 1. Backend (Python/FastAPI)
 ```bash
 cd code/backend
@@ -51,16 +52,16 @@ npm run dev
 ```
 Truy cập ứng dụng tại: http://localhost:5173
 
-📝 Quy ước định danh dữ liệu (Data Convention)
+## 📝 Quy ước định danh dữ liệu (Data Convention)
 Đối tượng	Tiền tố	Logic sinh mã	Ví dụ
 Bệnh nhân	PAT	PAT-YYYY-NNNN	PAT-2024-0001
 Ca khám	EMR	EMR-YYYYMMDD-NN	EMR-20241027-01
 Bác sĩ	DOC	DOC-NNNN	DOC-0012
 
-👥 Đội ngũ thực hiện (Team)
-Thành viên A (Leader): Backend Architecture, Security & Database.
-Thành viên B: Business Logic, AI Integration & PDF Service.
-Thành viên C: Frontend Patient Portal & UI/UX.
-Thành viên D: Frontend Doctor Dashboard & WebSocket.
+## 👥 Đội ngũ thực hiện (Team)
+- Thành viên A (Leader): Backend Architecture, Security & Database.
+- Thành viên B: Business Logic, AI Integration & PDF Service.
+-- Thành viên C: Frontend Patient Portal & UI/UX.
+- Thành viên D: Frontend Doctor Dashboard & WebSocket.
 
 Dự án được thực hiện trong vòng 4 tuần theo mô hình Agile-Scrum.
