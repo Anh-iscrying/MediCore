@@ -55,7 +55,7 @@ Truy cập ứng dụng tại: http://localhost:5173
 ## 👥 Đội ngũ thực hiện (Team)
 - Thành viên A (Leader): Backend Architecture, Security & Database.
 - Thành viên B: Business Logic, AI Integration & PDF Service.
--- Thành viên C: Frontend Patient Portal & UI/UX.
+- Thành viên C: Frontend Patient Portal & UI/UX.
 - Thành viên D: Frontend Doctor Dashboard & WebSocket.
 
 Dự án được thực hiện trong vòng 4 tuần theo mô hình Agile-Scrum.
